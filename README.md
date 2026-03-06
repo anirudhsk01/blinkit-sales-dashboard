@@ -44,11 +44,10 @@ This Power BI dashboard analyzes Blinkit grocery sales data to uncover insights 
 
 
 
-\## Project Screenshot
+## Project Screenshot
 
+<img src="Blinkit_Dashboard.png" width="900">
 
-
-!\[Blinkit Dashboard](Blinkit_Dashboard.png)
 
 
 
