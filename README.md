@@ -28,13 +28,17 @@ The dashboard includes the following analytical views:
 - Interactive filter panel for outlet location, outlet size, and item type
 
 ## Key Insights
-- **Total Sales:** $1.20M
-- **Average Sales:** $141
-- **Number of Items:** 8523
-- **Average Rating:** 3.9
+- Key Insights
+
+• Tier 3 outlets generate the highest sales (~$472K), indicating strong demand in those locations.
+
+• Fruits and Snack Foods are the top-performing product categories based on total sales.
+
+• Medium-sized outlets contribute the largest share of revenue compared to small and large outlets.
 
 ## Tools & Technologies
 - **Microsoft Excel** – Data Cleaning & Preparation  
 - **Power BI** – Dashboard Development & Data Visualization  
 - **Data Analysis**
 - **Business Intelligence Reporting**
+
